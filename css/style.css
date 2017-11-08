@@ -1,0 +1,9 @@
+body {
+  background-color: #cccccc;
+}
+
+#target {
+  max-width: 80vw;
+  max-height: 80vh;
+  margin: 0 auto;
+}
